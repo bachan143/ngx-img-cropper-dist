@@ -1,0 +1,1 @@
+{"version":3,"file":"cropper-draw-settings.d.ts","sourceRoot":"","sources":["../../../../projects/ngx-img-cropper/src/lib/image-cropper/cropper-draw-settings.ts"],"names":[],"mappings":"AAAA,qBAAa,mBAAmB;IACvB,QAAQ,UAAS;IACjB,WAAW,SAAK;IAChB,WAAW,SAAyB;IACpC,SAAS,SAAyB;IAClC,mBAAmB,SAAK;IACxB,mBAAmB,SAAmB;IACtC,iBAAiB,SAAyB;IAC1C,mBAAmB,SAAqB;gBAEnC,QAAQ,CAAC,EAAE,GAAG;CAgB3B"}
